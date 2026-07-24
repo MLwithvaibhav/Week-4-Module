@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Exponent {
+    // code starts from here
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
